@@ -1,5 +1,5 @@
 {
-    "file": "http://localhost/upset/test2.csv",
+    "file": "https://raw.githubusercontent.com/Rolandlorinczi/upsetdata/master/test2.csv",
     "name": "RolandBoss",
     "header": 0,
     "separator": ";",
